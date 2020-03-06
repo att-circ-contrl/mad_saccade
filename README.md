@@ -4,6 +4,7 @@
 Code for *Voloh, Watson, Konig, and Womelsdorf. (2020) MAD saccade: statistically robust saccade threshold estimation via the median absolute deviation. Journal of Eye Movement Research*
 
 __References and prior work:__
+
 Nyström, M., & Holmqvist, K. (2010). An adaptive algorithm for fixation, saccade, and glissade detection in eyetracking data. Behavior Research Methods, 42(1), 188–204. https://doi.org/10.3758/BRM.42.1.188
 
 Dai, W., Selesnick, I., Rizzo, J.-R., Rucker, J., & Hud-son, T. (2016). A parametric model for saccadic eye movement. 2016 IEEE Signal Processing in Medicine and Biology Symposium (SPMB), 1–6. https://doi.org/10.1109/SPMB.2016.7846860
